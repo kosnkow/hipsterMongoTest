@@ -1,0 +1,6 @@
+version: '2'
+services:
+  dev1-app:
+    image: dev1
+    ports:
+      - 80:80
